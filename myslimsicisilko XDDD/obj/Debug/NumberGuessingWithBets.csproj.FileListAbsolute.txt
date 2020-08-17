@@ -1,0 +1,11 @@
+C:\Users\Peťa\source\repos\myslimsicisilko XDDD\myslimsicisilko XDDD\bin\Debug\myslimsicisilko XDDD.exe.config
+C:\Users\Peťa\source\repos\myslimsicisilko XDDD\myslimsicisilko XDDD\bin\Debug\myslimsicisilko XDDD.exe.manifest
+C:\Users\Peťa\source\repos\myslimsicisilko XDDD\myslimsicisilko XDDD\bin\Debug\myslimsicisilko XDDD.application
+C:\Users\Peťa\source\repos\myslimsicisilko XDDD\myslimsicisilko XDDD\bin\Debug\myslimsicisilko XDDD.exe
+C:\Users\Peťa\source\repos\myslimsicisilko XDDD\myslimsicisilko XDDD\bin\Debug\myslimsicisilko XDDD.pdb
+C:\Users\Peťa\source\repos\myslimsicisilko XDDD\myslimsicisilko XDDD\obj\Debug\NumberGuessingWithBets.csprojAssemblyReference.cache
+C:\Users\Peťa\source\repos\myslimsicisilko XDDD\myslimsicisilko XDDD\obj\Debug\NumberGuessingWithBets.csproj.CoreCompileInputs.cache
+C:\Users\Peťa\source\repos\myslimsicisilko XDDD\myslimsicisilko XDDD\obj\Debug\myslimsicisilko XDDD.exe.manifest
+C:\Users\Peťa\source\repos\myslimsicisilko XDDD\myslimsicisilko XDDD\obj\Debug\myslimsicisilko XDDD.application
+C:\Users\Peťa\source\repos\myslimsicisilko XDDD\myslimsicisilko XDDD\obj\Debug\myslimsicisilko XDDD.exe
+C:\Users\Peťa\source\repos\myslimsicisilko XDDD\myslimsicisilko XDDD\obj\Debug\myslimsicisilko XDDD.pdb
